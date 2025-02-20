@@ -5,7 +5,7 @@ The standard Delphi TComboBox is based on WinAPI. Every item you add to the list
 
 Since Zoom Player's options dialog contains so many TComboBox components, the commulative performance hit caused a serious delay when trying to show the form.
 
-To overcome this delay, with the help of AI, I wrote a slimmed down replica of TComboBox based on TStringList.
+To overcome this delay, with the help of AI, I designed a slimmed down replica of TComboBox based on TStringList.
 
 ## Limitations
 * The only event supported is OnChange.
