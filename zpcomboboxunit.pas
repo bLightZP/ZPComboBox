@@ -320,7 +320,6 @@ begin
       ItemIndex := I;
       Exit;
     end;
-  ItemIndex := -1;
 end;
 
 
